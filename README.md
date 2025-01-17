@@ -12,13 +12,10 @@ The PDF provides detailed insights into:
 2. **Key Workflows:**
    - User registration, product browsing, cart management, order placement, and shipment tracking.
 3. **API Endpoints:**
-   - Product, cart, order,payment and shipment APIs with examples.
+   - Product,order,payment and shipment APIs with examples.
 4. **Sanity Schemas:**
    - Designed for products, orders, and users.
 5. **Technical Roadmap:**
    - Steps, milestones, and deliverables for the project.
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+  
